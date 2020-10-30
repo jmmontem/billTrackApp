@@ -1,4 +1,4 @@
-# billTrackApi
+# billTrack App
 
 Monitor your bills.
 
